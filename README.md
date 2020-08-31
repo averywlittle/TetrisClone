@@ -1,3 +1,3 @@
-![](name-of-giphy.gif)
+![](tetris_gif.gif)
 
 Demo gif ^
